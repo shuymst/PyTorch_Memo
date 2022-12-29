@@ -1,2 +1,2 @@
 # PyTorch_Memo
-深層強化学習の実装にPyTorchを使っていて毎回詰まっているところのまとめ
+Some tips when you implement DeepRL models using PyTorch
